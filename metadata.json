@@ -1,0 +1,6 @@
+{
+  "name": "TV Legal 5 - CineStream Hub",
+  "description": "Plataforma cinematográfica de streaming ao vivo com player HLS integrado, navegação por categorias, favoritos e painel administrativo para gerenciamento de canais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
